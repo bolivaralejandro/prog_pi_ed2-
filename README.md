@@ -17,3 +17,4 @@ From time to time, tehre may be updates to this code. To update your Raspberry P
 
     $cd /home/pi/prog_pi_ed2
     $git pull
+# prog_pi_ed2-
